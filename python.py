@@ -29,3 +29,5 @@ def diff(a,b,c):
     return diff1,diff2,diff3
 
 print (diff(5,9,17))
+
+#修改
