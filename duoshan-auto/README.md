@@ -483,6 +483,3 @@ test_login.py::test_locator_examples PASSED     [100%]
 - 微信小程序自动化（需用其他框架）
 
 ---
-
-> **文档作者：** 抖音 App 自动化测试团队  
-> **更新日期：** 2026 年 7 月
